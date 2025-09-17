@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @darekmt2b2
-- 👀 I’m interested in Aviation, weaponry and biking
+- 👀 I’m interested in Aviation, software development and biking
 - 🌱 I’m currently learning java, python and aws
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: 
+
+darek.perez.vallejos@gmail.com 
+
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
